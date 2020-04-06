@@ -79,7 +79,7 @@ boolean[] getTouchGround(float w1x, float w1y, float w2x, float w2y) {
 
 void draw() {
   noStroke();
-  image(loadImage("landscape_1.png"), 0, 0);
+  image(loadImage("burrow1.png"), 0, 0);
   update();
   robot_draw();
 }
